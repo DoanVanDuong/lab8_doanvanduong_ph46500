@@ -161,10 +161,9 @@ footer{
       align-items: center;
       
     }
-    .td{
-        position: absolute;
-        bottom: 40px;
-        left: 50px;
+    .header3 p{
+   font-size: 12px;
+        padding-left: 15px;
     }
-   
+    
 }
